@@ -1,1 +1,6 @@
-// Your code goes here
+
+//Added domconent eventlistener
+
+document.addEventListener("DOMContentLoaded", function() {
+
+});
